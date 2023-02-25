@@ -4,5 +4,5 @@
 All the details in Final Report.pdf file
 
 Collaborators:
-- Giulio D'Erasmo
+- ![Giulio D'Erasmo](https://github.com/giulio-derasmo)
 - Mehrdad Hassanzadeh
